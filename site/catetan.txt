@@ -1,0 +1,13 @@
+git push
+git commit - "isi note"
+git status 
+git add .
+dir pengganti ls
+mk dir
+cd ..
+cd (folder) 
+git add
+git pull 
+browser-sync start --server --directory --files "x"
+js fiddle
+code pen io
